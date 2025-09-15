@@ -9,7 +9,7 @@ from datetime import datetime
 
 # ===== CONFIGURE THESE =====
 API_KEY = "8fdc69a521cc163da6e892d0d3e214880608"
-EMAIL = "assim.alfadda@ksu.edu.sa"  # ← YOUR REAL EMAIL
+EMAIL = "qq.q2@outlook.sa"  # ← YOUR REAL EMAIL
 SHEET_ID = "1rizbL69aBz1gC746U2iJy5k3lIYlk9vRRZCogk174sg"  # ← YOUR SHEET ID
 AUTHOR_NAME = "Alfadda AA"
 
